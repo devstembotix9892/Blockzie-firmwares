@@ -11,6 +11,7 @@ The firmware for boards.
     3. Arduino Mega 2560 - configurable firmata
     4. BlockzieEsp32- configurable firmata (for realtime mode Esp32)
     5. BlockzieEsp32 partitions- configurable firmata (for non-realtime mode Esp32 for bluetooth)
+    6. BlockzieEsp32 bootloader-  configurable firmata (for non-realtime mode Esp32 for wifi)
 
 - Micro Python
 
